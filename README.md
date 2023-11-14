@@ -21,7 +21,7 @@
 * 🎓 I'm a Computer Science student
 * ⚡ **Fun Facts** : ⚽️🎬🛣️🐶☕🏔️
   
-- 🌱 I’m currently learning: **Node.js**, **ReactJS**, **Go**, **MongoDB**
+- 🌱 Learning / to learn:  **Node.js**, **ReactJS**, **Go**
   
 <h3>🔨 Languages and Tools:</h3>
 <!--tech stack icons-->
