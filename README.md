@@ -17,7 +17,7 @@
 * 🎓 I'm a Computer Science student
 * ⚡ **Fun Facts** : ⚽️🎬🛣️🐶☕🏔️
   
-- 🌱 Learning / to learn:  **Node.js**, **ReactJS**, **Go**
+- 🌱 Learning / to learn:  **Nodejs**, **Vue**, **Nuxtjs**
   
 <h3>🔨 Languages and Tools:</h3>
 <!--tech stack icons-->
