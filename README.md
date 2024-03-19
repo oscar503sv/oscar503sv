@@ -23,7 +23,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,ts,django,laravel,nodejs,express,flask,fastapi,wordpress,astro,vue,nuxtjs,git,html,css,bootstrap,discord,docker,github,gitlab,idea,linux,md,mysql,postgres,nginx,postman,activitypub,fediverse,bash,powershell,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,php,js,ts,django,laravel,nodejs,express,flask,fastapi,wordpress,astro,vue,nuxtjs,git,html,css,bootstrap,tailwind,discord,docker,github,gitlab,idea,linux,md,mysql,postgres,nginx,postman,activitypub,fediverse,bash,powershell,vscode&perline=12" />
   </a>
 </p>
 
