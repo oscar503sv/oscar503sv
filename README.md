@@ -1,54 +1,75 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Oscar👨🏻‍💻</h1></summary>
-    <summary><h3 style="display: inline-block">A passionate web developer from El Salvador.</h3></summary>
-  </ul>
+<!-- Header with animated wave -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3DB7FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Oscar;Full-Stack+Developer;Computer+Science+Student" alt="Typing SVG" />
+  <p>A passionate web developer from El Salvador</p>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<!--- snake -->
 
-### 👨‍💻 About Me :
-* 💻 I'm a software developer
-* 🚀 I am interested in contributing to third-party open-source projects and learning more about frontend technologies
-* 🎓 I'm a Computer Science student
-* ⚡ **Fun Facts** : ⚽️🎬🛣️🐶☕🏔️
+<!-- About Me Section -->
+## 👨‍💻 About Me
+
+- 💻 Software Developer with a passion for web technologies
+- 🚀 Contributing to open-source projects and expanding my frontend skills
+- 🎓 Computer Science student continuously learning and growing
+- 🌱 Currently mastering **Node.js**, **Express**, **React**, and **Next.js**
+- ⚡ **Fun Facts**: I enjoy ⚽ football, 🎬 movies, 🛣️ traveling, 🐶 dogs, ☕ coffee, and 🏔️ hiking
+
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css&perline=6" alt="Languages" />
   
-- 🌱 Learning / to learn:  **Nodejs**, **Express**, **React**, **NextJS**
+  <h3>Frameworks & Libraries</h3>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,astro,laravel,django,flask,fastapi,tailwind,bootstrap&perline=6" alt="Frameworks and Libraries" />
   
-<h3>🔨 Languages and Tools:</h3>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,astro,php,laravel,wordpress,py,django,flask,fastapi,git,html,css,tailwind,bootstrap,docker,github,gitlab,linux,md,mysql,postgres,postman,vscode&perline=12" />
+  <h3>Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,linux,vscode,wordpress,mysql,postgres,postman&perline=5" alt="Tools and Platforms" />
+</div>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar503sv&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar503sv&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180px" />
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscar503sv&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+</div>
+
+<!-- Connect Section -->
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/oscar-hernandez-2a6a021a8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
-
----
-
-### 📊 My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oscar503sv&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar503sv&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Connect With Me🤝
-<!--icons and links-->
-<div align="center">
-  
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oscar-hernandez-2a6a021a8/)
-[![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://sivar.cafe/@ozkarhdz)
-  
+  <a href="https://sivar.cafe/@ozkarhdz">
+    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
+  </a>
 </div>
 
-<!--profile visit count-->
+<!-- Footer -->
 <div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=oscar503sv&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   
+  <p align="center">
+    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
+    <i>Happy Coding!</i>&nbsp;
+    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
+  </p>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=oscar503sv&label=Profile%20views&color=0e75b6&style=for-the-badge&color=brightgreen" alt="oscar503sv" />
+  </p>
+  
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting!;Coding+dreams+into+reality...;Always+learning%2C+always+exploring!" alt="Typing SVG" />
+    </a>
+  </div>
 </div>
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
