@@ -11,19 +11,18 @@
 <!--- snake -->
 
 ### 👨‍💻 About Me :
-* 💻 I'm a backend developer
+* 💻 I'm a software developer
 * 🚀 I am interested in contributing to third-party open-source projects and learning more about frontend technologies
-* 🌐 You can see some of my portfolio on [ozkar.codes](https://ozkar.codes)
 * 🎓 I'm a Computer Science student
 * ⚡ **Fun Facts** : ⚽️🎬🛣️🐶☕🏔️
   
-- 🌱 Learning / to learn:  **Nodejs**, **Express**, **Vue**, **Nuxtjs**
+- 🌱 Learning / to learn:  **Nodejs**, **Express**, **React**, **NextJS**
   
 <h3>🔨 Languages and Tools:</h3>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,php,js,ts,django,laravel,nodejs,express,flask,fastapi,wordpress,astro,vue,nuxtjs,git,html,css,bootstrap,tailwind,discord,docker,github,gitlab,idea,linux,md,mysql,postgres,nginx,postman,activitypub,fediverse,bash,powershell,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,astro,php,laravel,wordpress,py,django,flask,fastapi,git,html,css,tailwind,bootstrap,docker,github,gitlab,linux,md,mysql,postgres,postman,vscode&perline=12" />
   </a>
 </p>
 
@@ -40,8 +39,6 @@
 <div align="center">
   
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oscar-hernandez-2a6a021a8/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/OzkarHdz_)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ozkarhdz_/)
 [![Mastodon](https://skillicons.dev/icons?i=mastodon)](https://sivar.cafe/@ozkarhdz)
   
 </div>
