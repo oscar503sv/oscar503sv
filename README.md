@@ -48,9 +48,6 @@
   <a href="https://www.linkedin.com/in/oscar-hernandez-2a6a021a8/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://sivar.cafe/@ozkarhdz">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" />
-  </a>
 </div>
 
 <!-- Footer -->
