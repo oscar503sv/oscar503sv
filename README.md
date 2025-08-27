@@ -12,7 +12,7 @@
 - 🚀 Contributing to open-source projects and expanding my frontend skills
 - 🎓 Computer Science student continuously learning and growing
 - 🌱 Currently mastering **Node.js**, **Express**, **React**, and **Next.js**
-- ⚡ **Fun Facts**: I enjoy ⚽ football, 🎬 movies, 🛣️ traveling, 🐶 dogs, ☕ coffee, and 🏔️ hiking
+- ⚡ **Fun Facts**: I enjoy ⚽ soccer, 🎬 movies, 🛣️ traveling, 🐶 dogs, ☕ coffee, and 🏔️ hiking
 
 <!-- Tech Stack Section -->
 ## 🛠️ Tech Stack
