@@ -22,7 +22,6 @@
 - 🎓 Computer Science student @ **Universidad Don Bosco**, El Salvador
 - 🐧 Fedora + Hyprland daily driver — Linux customization enthusiast
 - 📱 Currently building **[Eventos Comunitarios](https://github.com/oscar503sv/app-eventos-comunitarios)** — community events app with Jetpack Compose
-- 🤖 Running local AI models on **AMD Ryzen AI 9 HX PRO 370 / 64GB DDR5**
 
 ---
 
