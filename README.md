@@ -19,10 +19,10 @@
 
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,php,html,css&perline=6" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c#,py,php,html,css&perline=6" alt="Languages" />
   
   <h3>Frameworks & Libraries</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,astro,laravel,django,flask,fastapi,tailwind,bootstrap,react&perline=6" alt="Frameworks and Libraries" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,astro,laravel,dotnet,django,flask,fastapi,tailwind,bootstrap,react&perline=6" alt="Frameworks and Libraries" />
   
   <h3>Tools & Platforms</h3>
   <img src="https://skillicons.dev/icons?i=git,docker,github,gitlab,linux,vscode,wordpress,mysql,postgres,postman&perline=5" alt="Tools and Platforms" />
