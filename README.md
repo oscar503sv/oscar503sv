@@ -70,7 +70,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar503sv&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar503sv&langs_count=6&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscar503sv&langs_count=6&theme=tokyonight&layout=donut&hide_border=true" alt="Top Languages" height="170px" />
 </div>
 
 <div align="center">
