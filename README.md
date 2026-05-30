@@ -70,16 +70,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar503sv&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://skillicons.dev/icons?i=python,ts,php,fastapi,react,laravel,postgres,docker,kotlin,go,cs,lua,nextjs,nodejs,firebase,aws,linux&theme=dark" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oscar503sv&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=oscar503sv&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170px" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=oscar503sv&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="170px" />
 </div>
 
 ---
