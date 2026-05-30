@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DB7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Oscar+Aragón;Full-Stack+Developer;CS+Student+%40+UDB+%F0%9F%87%B8%F0%9F%87%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=3DB7FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Oscar+Aragon;Full-Stack+Developer;CS+Student+%40+UDB+%F0%9F%87%B8%F0%9F%87%BB" alt="Typing SVG" />
 
   <p>Building real products from El Salvador · FastAPI · React · Laravel · Docker</p>
 
