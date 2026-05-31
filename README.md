@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏥 Building **[MediCore](https://github.com/oscar503sv/clinical-system)** — clinic management system with FastAPI + React + PostgreSQL + Docker
+- 🏥 Building **[MediCore](https://github.com/oscar503sv/medicore)** — clinic management system with FastAPI + React + PostgreSQL + Docker
 - ⚖️ Contributed to **Las Mélidas NGO** — case management system with Laravel RBAC (replacing KoBoToolbox)
 - 🎓 Computer Science student @ **Universidad Don Bosco**, El Salvador
 - 🐧 Fedora + Hyprland daily driver — Linux customization enthusiast
@@ -29,7 +29,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🏥 **[MediCore](https://github.com/oscar503sv/clinical-system)** | Clinic management platform with RBAC (admin, doctor, nurse, receptionist), patient records & REST API | FastAPI · React · PostgreSQL · Docker |
+| 🏥 **[MediCore](https://github.com/oscar503sv/medicore)** | Clinic management platform with RBAC (admin, doctor, nurse, receptionist), patient records & REST API | FastAPI · React · PostgreSQL · Docker |
 | ⚖️ **Las Mélidas CMS** · `🔒 Private` | Case management for a women's rights NGO. 8-table schema, 4 RBAC roles, activity auditing | Laravel · MySQL · Eloquent |
 | 🎟️ **[Event Ticket System](https://github.com/oscar503sv/event-ticket-system)** | High-performance ticket sales backend with Stripe integration | Bun · TypeScript · Hono · Drizzle ORM |
 | 📅 **[Eventos Comunitarios](https://github.com/oscar503sv/app-eventos-comunitarios)** | Community event management app with Google & Facebook auth. REST API documented with Swagger | Express · MariaDB · Firebase · Kotlin · Jetpack Compose |
